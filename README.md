@@ -14,7 +14,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $home
 
-git clone https://github.com/mobinlord/shadowking-asli -b supergroups
+git clone https://github.com/mobinlord/shadowking-asli
 
 ./launch.sh install
 
