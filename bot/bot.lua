@@ -235,7 +235,7 @@ function create_config( )
     
     @It_Is_Crazy [Developer]
     
-    @@SHO_OKER_ADMIN [Sudo]
+    @SHO_OKER_ADMIN [Sudo]
     
     Github==> https://github.com/mobinlord/shadow-asli
 ]],
